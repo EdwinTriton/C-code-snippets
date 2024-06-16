@@ -1,1 +1,1 @@
-# C-code-snippets
+This repository contains labs and homework code from the class "Programming Techniques". Most of the code in this class was written in bosnian but the 'Homework' folder contains some english explenations.
